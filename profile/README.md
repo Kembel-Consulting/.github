@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Kembel-Consulting/assets/master/images/social-media/linkedin/personal/banner_1400x350.png"  />
+  <img src="https://raw.githubusercontent.com/Kembel-Consulting/assets/master/images/social-media/linkedin/personal/banner_1400x350.png"  />
 </div>
 
 ###
