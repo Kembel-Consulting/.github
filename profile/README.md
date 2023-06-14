@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Kembel-Consulting/assets/master/images/logo/full_white_with_blue_background_1500x420.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/Kembel-Consulting/assets/master/images/social-media/linkedin/personal/banner_1400x350.png"  />
 </div>
 
 ###
@@ -8,7 +8,12 @@
 
 ###
 
-<p align="center">We help IT companies and service providers from German medium-sized companies to master sales jumps through top employees by automating the application process within 60 days through social recruiting and finding ideal applicants who will stay beyond the probationary period.</p>
+<p align="center">At Kembel Consulting, we primarily help IT service providers simplify their search for qualified specialists and optimize their manpower.
+<br><br>
+With our proven method, based on extensive industry knowledge and a strong network, we continuously support you in recruiting highly qualified IT specialists - without the usual hassle and challenges of the recruiting process.
+<br><br>
+Apply for a free initial consultation at <a href="https://kembelconsulting.de/erstgespraech">kembelconsulting.de/erstgespraech</a> and learn how we can help you boost your team with the best IT experts.
+</p>
 
 ###
 
@@ -56,17 +61,17 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/company/kembel-consulting/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/kembelconsulting/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
   <a href="https://facebook.com/kembelconsulting" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="mailto:info@kembelconsulting.de" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/kembelconsulting/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/company/kembel-consulting/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UC8SsZHrpp3YoJPYtrMwq8Aw" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
